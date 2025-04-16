@@ -9,8 +9,7 @@ The biggest struggle I encountered during this project was getting cmd codes to 
 The biggest achievement was seeing properly installed and function servers running an open source EMR.
 
 
-![alt text](https://imgur.com/a/WKqCDjq)
+![image](https://github.com/user-attachments/assets/76fbdc05-b657-4301-8de6-5a83994135c1)
 
-github.com/jmhobbs/terminal-parrot
-$ terminal-parrot
+
 
