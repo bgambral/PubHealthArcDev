@@ -9,8 +9,8 @@ The biggest struggle I encountered during this project was getting cmd codes to 
 The biggest achievement was seeing properly installed and function servers running an open source EMR.
 
 
-[<img width="597" alt="Portfolio" src=["https://user-images.githubusercontent.com/7671983/64871043-bab42880-d644-11e9-8e87-4a98d06339c9.png"](https://imgur.com/a/WKqCDjq)>]
+[<img width="597" alt="Portfolio" src=["https://imgur.com/a/WKqCDjq"](https://imgur.com/a/WKqCDjq)>]
 
-$ go get -u github.com/jmhobbs/terminal-parrot
+github.com/jmhobbs/terminal-parrot
 $ terminal-parrot
 
